@@ -3,6 +3,7 @@ import setuptools
 setuptools.setup(
     name='softheap',
     version='0.1',
+    url='https://github.com/alex-michael17/softheap',
     author="Alex Michael",
     author_email="mr17state@gmail.com",
     description="Python Soft Heap Implementation",

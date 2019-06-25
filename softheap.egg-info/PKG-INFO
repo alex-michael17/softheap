@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: softheap
+Version: 0.1
+Summary: Python Soft Heap Implementation
+Home-page: https://github.com/alex-michael17/softheap.git
+Author: Alex Michael
+Author-email: mr17state@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
